@@ -1,0 +1,1 @@
+<footer><strong>Pro XI Hub - Football Club Management Website </strong></footer>
