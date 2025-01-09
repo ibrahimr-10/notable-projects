@@ -1,1 +1,1 @@
-The files above show the python projects that I have done. These are related to AI and machine learning as this was part of my coursework for the final year of my university course.
+The files above show some of the projects that I have worked on. Some of these have been university projects.
