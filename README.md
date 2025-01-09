@@ -1,1 +1,1 @@
-The files above show some of the projects that I have worked on. Some of these have been university projects.
+The files above show some of the projects that I have worked on. "Web_Programming_Code" is in a zip file as I was not able to upload it like the other files. This assignemnt was about developing a web client-server application with a basic API Gateway and a NO-SQL database using REDIS
